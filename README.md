@@ -1,27 +1,15 @@
--# 👋 Hi, I'm Dula Man
+Hi there 👋
 
-🚀 I'm building value across borders from within China.  
-💡 I work in the intersection of Web3, AI, and decentralized collaboration.
+Curiosity-driven Web3 researcher ｜ On-chain data digger
+Telling stories of freedom & decentralization with verifiable numbers.
+Let’s find signals, cut the noise.
 
----
+⸻
 
-### 🔧 What I can do
-- Research & intelligence synthesis (Web3, social trends, decentralized governance)
-- AI-assisted content creation and EN/CN translation
-- Coordination and community ops
-- Knowledge system building (Notion, GitHub, open docs)
-- Strategic mapping and pattern recognition
+🌐 Focus: On-chain data analysis, narratives, DAO governance.
+🤝 Open to: Research collabs, discussions, signal sharing.
 
----
-
-### 🌱 I'm looking to collaborate on
-- DAO governance & coordination tooling  
-- Open-source public goods  
-- Cross-border value networks  
-- On-chain identity & trust systems
-
----
-
+Keep it real. Keep it verifiable.
 ### 🤝 Let's connect
 - **Telegram**: [@dula_Man](https://t.me/dula_Man)  
 - **GitHub**: [github.com/dulaman001](https://github.com/dulaman001)
@@ -31,7 +19,3 @@
 ### 💰 Wallet address (ETH / USDT)
 `0x337c7bd87cbe1C40D2A95E4EBecDa43EC5E7cEDa`
 
----
-
-> “I’m not here to wait for the future. I’m here to help build it.”  
-> — Dula Man
